@@ -13,8 +13,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebraga&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebraga&layout=compact&langs_count=7&theme=darcula"/>
 </div>
-  
-##
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -25,7 +23,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://www.kindpng.com/picc/m/112-1127696_software-developer-hd-png-download.png>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/08/dicas-programadores-iniciantes.png">
 </div>
 
   ##
