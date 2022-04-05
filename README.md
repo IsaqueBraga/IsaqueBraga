@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Isaque.
 
-🌱 Atualmente estudando Java e linguagens voltadas a web.
+🌱 Atualmente estudando Java e outras linguagens voltadas a web.
  
 💬 A procura de um estágio.
 
