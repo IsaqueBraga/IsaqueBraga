@@ -1,10 +1,10 @@
-## Olá! Eu sou o Isaque.
+## Olá! Eu sou o Isaque. | Hi! I'm Isaque.
 
-📝 Atualmente estudando Java e outras linguagens voltadas a web.
+📝 Atualmente estudando Java e outras linguagens voltadas a web. | Currently studying Java and other web languages.
  
-💻 A procura de um estágio.
+💻 A procura de um estágio. | Looking for an internship.
 
-📫 Contate-me no email: isaquesouzabraga@gmail.com
+📫 Contate-me no email: isaquesouzabraga@gmail.com | Contact me by email: isaquesouzabraga@gmail.com
 
 ##
 
