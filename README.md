@@ -1,4 +1,4 @@
-## Olá! Eu sou o Isaque. | Hi! I'm Isaque.
+## Olá! Eu sou o Isaque. | Hi! I am Isaque.
 
 📝 Atualmente estudando Java e outras linguagens voltadas a web. | Currently studying Java and other web languages.
  
