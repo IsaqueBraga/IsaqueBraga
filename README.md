@@ -1,4 +1,4 @@
-<!-- [![banner](./banner.png)](https://github.com/isaquebraga) -->
+[![banner](./banner.png)](https://github.com/isaquebraga)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -38,8 +38,8 @@
 
  <div align="center">
    <a href="https://github.com/isaquebraga">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebraga&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebraga&layout=compact&langs_count=7&theme=gruvbox_light"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebraga&show_icons=true&include_all_commits=true&count_private=true&theme=darcula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebraga&layout=compact&langs_count=7&theme=darcula "/>
  </div>
 
    ##
