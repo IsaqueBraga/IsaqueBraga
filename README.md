@@ -32,8 +32,6 @@
 
  💻 A procura de um estágio. | Looking for an internship.
 
- 📫 Contate-me no email: isaquesouzabraga@gmail.com | Contact me by email: isaquesouzabraga@gmail.com
-
  ##
 
  <div align="center">
