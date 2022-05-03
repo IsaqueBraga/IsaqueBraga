@@ -26,9 +26,9 @@
  
  <img align="right" alt="isaque-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
- ## hi! i am isaque.
+ ## i am isaque.
 
- 📝 currently studying Java and other web languages.
+ 📝 currently studying Java and web languages.
 
  💻 looking for an internship.
 
