@@ -26,11 +26,11 @@
  
  <img align="right" alt="isaque-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
- ## Olá! Eu sou o Isaque. | Hi! I am Isaque.
+ ## hi! i am isaque.
 
- 📝 Atualmente estudando Java e outras linguagens voltadas a web. | Currently studying Java and other web languages.
+ 📝 currently studying Java and other web languages.
 
- 💻 A procura de um estágio. | Looking for an internship.
+ 💻 looking for an internship.
 
  ##
 
