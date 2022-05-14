@@ -19,6 +19,9 @@
    <a href="https://www.java.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
    </a>
+     <a href="https://www.mysql.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+   </a>
 </p>
 
 <details>
