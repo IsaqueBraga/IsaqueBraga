@@ -1,9 +1,9 @@
 ```sql
 
 CREATE TABLE programmers (
-    name VARCHAR(255),
+    name VARCHAR(255) NOT NULL,
     github VARCHAR(255),
-    age INT(3),
+    age INT(3) NOT NULL,
     country VARCHAR(255),
     languages VARCHAR(255),
     
