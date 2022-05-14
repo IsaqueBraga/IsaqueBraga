@@ -1,5 +1,4 @@
 ```sql
-
 CREATE TABLE programmers (
     name VARCHAR(255) NOT NULL,
     github VARCHAR(255),
