@@ -31,7 +31,7 @@
 
  ## i am isaque.
 
- 📝 currently studying Java and web languages.
+ 📝 currently studying Java, web languages and database.
 
  💻 looking for an internship.
 
