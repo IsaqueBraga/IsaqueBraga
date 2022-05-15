@@ -6,7 +6,7 @@ CREATE TABLE me (
     country   VARCHAR(255),
     languages VARCHAR(255),
     
-    PRIMARY KEY (github)
+    PRIMARY KEY(github)
 );
    
 INSERT INTO me (name, github, age, country, languages)
