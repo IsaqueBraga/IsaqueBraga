@@ -5,17 +5,19 @@ CREATE TABLE me (
     age       INT(3) NOT NULL,
     country   VARCHAR(255),
     languages VARCHAR(255),
+    doing     VARCHAR(255) CHECK (doing = "Studying" OR doing = "Procrastinating"),
     
     PRIMARY KEY(github)
 );
    
-INSERT INTO me (name, github, age, country, languages)
+INSERT INTO me (name, github, age, country, languages, doing)
 VALUES (
     	"Isaque", 
 	"github.com/isaquebraga",
         18, 
         "Brazil",
-        "Python, Java, HTML, CSS, JavaScript and SQL"
+        "Python, Java, HTML, CSS, JavaScript and SQL",
+	"Procrastinating"
 );
 	
 SELECT * 
