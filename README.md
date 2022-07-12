@@ -5,7 +5,7 @@ CREATE TABLE me (
     age       INT(3) NOT NULL,
     country   VARCHAR(255),
     languages VARCHAR(255),
-    doing     VARCHAR(255) CHECK (doing = "Studying" OR doing = "Procrastinating"),
+    doing     VARCHAR(255) CHECK (doing = "Studying" OR doing = "Sleeping"),
     
     PRIMARY KEY(github)
 );
@@ -17,7 +17,7 @@ VALUES (
         18, 
         "Brazil",
         "Python, Java, HTML, CSS, JavaScript and SQL",
-	"Procrastinating"
+	"Sleeping"
 );
 	
 SELECT * 
