@@ -15,7 +15,7 @@ VALUES (
 	"github.com/isaquebraga",
         18, 
         "Brazil",
-        "Python, Java, HTML5, CSS3, JavaScript, React, React Native, Git and SQL",
+        "Git, Python, Java, HTML5, CSS3, JavaScript, React, React Native and SQL",
 );
 	
 SELECT * 
