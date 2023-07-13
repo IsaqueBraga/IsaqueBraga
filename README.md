@@ -4,20 +4,18 @@ CREATE TABLE me (
     github    VARCHAR(255),
     age       INT(3) NOT NULL,
     country   VARCHAR(255),
-    languages VARCHAR(255),
-    doing     VARCHAR(255) CHECK (doing = "Studying" OR doing = "Sleeping"),
+    technologies VARCHAR(255),
     
     PRIMARY KEY(github)
 );
    
-INSERT INTO me (name, github, age, country, languages, doing)
+INSERT INTO me (name, github, age, country, technologies)
 VALUES (
     	"Isaque", 
 	"github.com/isaquebraga",
         18, 
         "Brazil",
-        "Python, Java, HTML, CSS, JavaScript and SQL",
-	"Sleeping"
+        "Python, Java, HTML5, CSS3, JavaScript, React, React Native, Git and SQL",
 );
 	
 SELECT * 
